@@ -5,5 +5,4 @@ Project Name: Site Checker | Version: 1.0: Base version by author | Designed by 
 
 This project is created as part of Certified Professional in Python Programming.
 
-![image](https://github.com/Prarvy/SiteChecker/assets/134375021/5aa498dc-b288-4099-8cab-8393e3383bd7)
-
+![image](https://github.com/Prarvy/SiteChecker/assets/134375021/c67182af-ab55-4cef-b48f-81520d5a352d)
