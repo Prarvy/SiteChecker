@@ -38,6 +38,7 @@ if __name__ == '__main__':
     if len(sys.argv) in [2, 3]:
         site_address = sys.argv[1]
         if len(sys.argv) == 2:
+            print('Info: Port Number has been set to 80.')
             site_port = 80
         else:
             site_port = int(sys.argv[2])
